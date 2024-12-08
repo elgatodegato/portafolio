@@ -1,0 +1,78 @@
+.inter-pollo{
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color: white;
+    background-color: #111111;
+}
+.navegador{
+    padding-left: 60px;
+    padding-right: 180px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: linear-gradient(rgba(87,87,87,0.800000011920929), rgba(65,65,65,0.20000000298023224));
+    border: 1px solid linear-gradient(rgba(88,88,88,1), rgba(81,81,81,1));
+    opacity: 1;
+}
+.primero{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.imagen-0{
+    border-radius: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background: linear-gradient(rgba(87,87,87,0.800000011920929), rgba(65,65,65,0.20000000298023224));
+    border: 1px solid linear-gradient(rgba(88,88,88,1), rgba(81,81,81,1));
+}
+.imagen-dentro{
+    border-radius: 8px;
+}
+.blanco{
+    color: white;
+}
+#blanco{
+    color: white;
+}
+.texto-parrafo{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+.espacio{
+    padding-top: 50px;
+}
+.imagen-1{
+    border-radius: 16px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background: linear-gradient(rgba(87,87,87,0.800000011920929), rgba(65,65,65,0.20000000298023224));
+    border: 1px solid linear-gradient(rgba(88,88,88,1), rgba(81,81,81,1));
+}
+.titulos-1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.cero-2{
+    padding-top: 20px;
+}
+.primer-titulo{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.titulos-2{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.bordes{
+    border-radius: 8px;
+}
+.arriba{
+    padding-top: 10px;
+}
